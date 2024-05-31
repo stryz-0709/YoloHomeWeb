@@ -1,0 +1,262 @@
+.add-user .yolo-home {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-size: 70px;
+  color: #474EFF;
+}
+.add-user .general-information {
+  margin: 0 0 9.5px 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 900;
+  font-size: 35px;
+  color: #000000;
+}
+.add-user .name {
+  margin-bottom: 14.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .rectangle-19 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  margin-bottom: 20.5px;
+  width: 1233px;
+  height: 68px;
+}
+.add-user .dob {
+  margin: 0 16px 2px 0;
+  display: inline-block;
+  width: 320px;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .gender {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .phone-number {
+  margin-top: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .container-3 {
+  margin-bottom: 12.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 908.9px;
+  box-sizing: border-box;
+}
+.add-user .ddmmyy {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.add-user .container-6 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 18px 40.8px 18px 0;
+  width: 262px;
+  box-sizing: border-box;
+}
+.add-user .dropdown-menu {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.add-user .container-7 {
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  padding: 18px 15px;
+  width: 311px;
+  box-sizing: border-box;
+}
+.add-user .rectangle-34 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  width: 514px;
+  height: 68px;
+}
+.add-user .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.add-user .container-5 {
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 65.5px 39px 28px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .container-8 {
+  border-radius: 30px;
+  background: #E7F6FF;
+  position: relative;
+  margin: 0 0 31px 9.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19.5px 23px 22px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .login-information {
+  margin: 0 0 8.5px 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 900;
+  font-size: 35px;
+  color: #000000;
+}
+.add-user .username {
+  margin: 0 1px 14.5px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .rectangle-32 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  margin: 0 0 33.5px 1px;
+  width: 1211px;
+  height: 68px;
+}
+.add-user .password {
+  margin: 0 1px 14.5px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .rectangle-37 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  margin: 0 0 27.5px 1px;
+  width: 1211px;
+  height: 68px;
+}
+.add-user .facial-data {
+  margin: 0 1px 27.5px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.add-user .drop-or-paste-your-files-folder-or-images-here-select-filesorselect-afolderfrom-your-computer {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.add-user .container-4 {
+  border: 2px dashed rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 67px 0 24px 84px;
+  width: 1212px;
+  box-sizing: border-box;
+}
+.add-user .container-9 {
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49.5px 61px 23px 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .container {
+  border-radius: 30px;
+  background: #E7F6FF;
+  position: relative;
+  margin: 0 0 28px 9.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 34.5px 23px 15px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 900;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.add-user .container-2 {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: relative;
+  margin-right: 14.8px;
+  display: flex;
+  align-self: center;
+  padding: 12px 0 12px 14px;
+  width: 431px;
+  box-sizing: border-box;
+}
+.add-user {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 52px 42px 36px 31.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

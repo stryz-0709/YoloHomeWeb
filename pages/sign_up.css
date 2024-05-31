@@ -1,0 +1,227 @@
+.sign-up .yolo-home {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-size: 70px;
+  color: #474EFF;
+}
+.sign-up .rectangle-4 {
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 20px;
+  top: 13px;
+  width: 1139px;
+  height: 771px;
+}
+.sign-up .first-name {
+  margin-right: 16px;
+  width: 529px;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.sign-up .last-name {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.sign-up .container-5 {
+  position: relative;
+  margin-bottom: 14.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 680.1px;
+  box-sizing: border-box;
+}
+.sign-up .rectangle-9 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  margin-right: 53px;
+  width: 492px;
+  height: 68px;
+}
+.sign-up .rectangle-10 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  width: 492px;
+  height: 68px;
+}
+.sign-up .container-1 {
+  position: relative;
+  margin-bottom: 14.5px;
+  display: flex;
+  flex-direction: row;
+  width: 1037px;
+  box-sizing: border-box;
+}
+.sign-up .email {
+  position: relative;
+  margin-bottom: 14.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.sign-up .rectangle-11 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 14.5px;
+  width: 1037px;
+  height: 68px;
+}
+.sign-up .password {
+  position: relative;
+  margin-bottom: 14.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.sign-up .password-8-characters-or-more {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.sign-up .container-2 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 14.5px;
+  padding: 18px 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .confirm-password {
+  position: relative;
+  margin-bottom: 14.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.sign-up .rectangle-13 {
+  border-radius: 30px;
+  border: 2px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 11.5px;
+  width: 1037px;
+  height: 68px;
+}
+.sign-up .yes-iunderstand-and-agree-to-the-terms-of-service-including-the-user-agreement-and-privacy-policy {
+  position: relative;
+  margin: 0 0 15.5px 28.5px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Faustina';
+  font-weight: 400;
+  font-size: 27px;
+  color: #000000;
+}
+.yes-iunderstand-and-agree-to-the-terms-of-service-including-the-user-agreement-and-privacy-policy-sub23 {
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 1.333;
+}
+.yes-iunderstand-and-agree-to-the-terms-of-service-including-the-user-agreement-and-privacy-policy-sub22 {
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.yes-iunderstand-and-agree-to-the-terms-of-service-including-the-user-agreement-and-privacy-policy {
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 1.333;
+}
+.sign-up .sign-up-1 {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #FFFFFF;
+}
+.sign-up .container-4 {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: relative;
+  margin-bottom: 24.5px;
+  display: flex;
+  align-self: center;
+  padding: 14.5px 16px 13.5px 0;
+  width: 431px;
+  box-sizing: border-box;
+}
+.sign-up .already-have-an-account {
+  margin-right: 16.1px;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #4A4A4A;
+}
+.sign-up .log-in {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  text-decoration-line: underline;
+  color: #000000;
+}
+.sign-up .container-3 {
+  position: relative;
+  margin-right: 59.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .container {
+  border-radius: 30px;
+  background: #E7F6FF;
+  position: relative;
+  margin-left: 83.2px;
+  display: flex;
+  flex-direction: column;
+  padding: 60.5px 72px 26.5px 71px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 130px 77px 46.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

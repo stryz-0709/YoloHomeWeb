@@ -1,0 +1,147 @@
+.home-before-login .thit-kcha-ctn-11 {
+  background: url('../assets/images/thit_kcha_ctn_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.home-before-login .rectangle-5 {
+  opacity: 0.8;
+  background: rgba(0, 0, 0, 0.47);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.home-before-login .rectangle-4 {
+  opacity: 0.9;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 150px;
+}
+.home-before-login .yolo-home {
+  margin-bottom: 232.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-size: 70px;
+  color: #474EFF;
+}
+.home-before-login .feel-comfort-and-relax {
+  margin: 0 6.4px 31.5px 6.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Rubik One';
+  font-weight: 400;
+  font-size: 55px;
+  color: #79F7FF;
+}
+.home-before-login .let-us-make-your-life-easier-and-more-comfortable-with-our-smart-home-system {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.home-before-login .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.home-before-login .sign-up-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Alegreya';
+  font-weight: 700;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.home-before-login .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 900;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.home-before-login .container {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 25.5px 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.home-before-login .container-4 {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: absolute;
+  top: 29px;
+  right: 33px;
+  display: flex;
+  padding: 22.5px 0;
+  width: 205px;
+  box-sizing: border-box;
+}
+.home-before-login .log-in {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Alegreya';
+  font-weight: 400;
+  font-size: 35px;
+  color: #000000;
+}
+.home-before-login .log-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 35px;
+  color: #000000;
+}
+.home-before-login .container-2 {
+  border-radius: 30px;
+  border: 2px solid #84D2FE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 23.5px 0 27.5px 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.home-before-login .container-3 {
+  border-radius: 30px;
+  border: 2px solid #84D2FE;
+  background: #FFFFFF;
+  position: absolute;
+  top: 31px;
+  right: 274px;
+  display: flex;
+  padding: 20.5px 0 24.5px 0;
+  width: 205px;
+  box-sizing: border-box;
+}
+.home-before-login {
+  background: #FFFFFF;
+  padding: 40px 46.8px 0 46.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

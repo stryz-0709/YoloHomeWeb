@@ -1,0 +1,181 @@
+.log-in .yolo-home {
+  margin: 0 27.8px 760px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-size: 70px;
+  color: #474EFF;
+}
+.log-in .log-in-1 {
+  margin: 0 1px 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 35px;
+  color: #000000;
+}
+.log-in .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 17.3px;
+  width: 48px;
+  height: 48px;
+}
+.log-in .username-or-email {
+  margin: 8.5px 0 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.log-in .container-1 {
+  border-radius: 30px;
+  border: 1px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 54px 41px 20.4px;
+  display: flex;
+  flex-direction: row;
+  padding: 22px 0 22px 24px;
+  width: 594px;
+  box-sizing: border-box;
+}
+.log-in .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin-right: 21.7px;
+  width: 47px;
+  height: 47px;
+}
+.log-in .password {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.log-in .container-7 {
+  border-radius: 30px;
+  border: 1px solid rgba(86, 194, 255, 0.59);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 54px 27.5px 20.4px;
+  display: flex;
+  flex-direction: row;
+  padding: 23px 0 22px 25px;
+  width: 594px;
+  box-sizing: border-box;
+}
+.log-in .forget-password {
+  margin-bottom: 19.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #07A6FF;
+}
+.log-in .log-in-2 {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #FFFFFF;
+}
+.log-in .container-5 {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: relative;
+  margin: 0 25.6px 32.5px 0;
+  display: flex;
+  padding: 14.5px 5px 13.5px 0;
+  width: 242px;
+  box-sizing: border-box;
+}
+.log-in .or {
+  margin-right: 22.5px;
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: rgba(74, 74, 74, 0.7);
+}
+.log-in .line-5 {
+  background: #84D2FE;
+  margin: 15.5px 0;
+  width: 315px;
+  height: 1px;
+}
+.log-in .container {
+  margin-bottom: 29.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.log-in .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Chivo';
+  font-weight: 400;
+  font-size: 27px;
+  color: #FFFFFF;
+}
+.log-in .container-3 {
+  border-radius: 30px;
+  background: #84D2FE;
+  position: relative;
+  margin-right: 33.6px;
+  display: flex;
+  padding: 12.5px 1px 15.5px 0;
+  width: 370px;
+  box-sizing: border-box;
+}
+.log-in .container-4 {
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 46px 0 16px 33.6px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.log-in .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.log-in .line-4 {
+  background: #84D2FE;
+  position: absolute;
+  left: 10px;
+  bottom: 136px;
+  width: 315px;
+  height: 1px;
+}
+.log-in .container-2 {
+  border-radius: 30px;
+  background: #E7F6FF;
+  position: relative;
+  margin-top: 155px;
+  display: flex;
+  padding: 30.5px 11px 15px 12px;
+  box-sizing: border-box;
+}
+.log-in {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 0 0 46.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}
